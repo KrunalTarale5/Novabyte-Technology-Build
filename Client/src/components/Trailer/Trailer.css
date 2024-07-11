@@ -1,0 +1,25 @@
+
+
+  .container1 h1{
+    font-size: 3.2rem;
+    padding-top: 70px;
+  }
+
+  .container1 p{
+    font-size: 1.4rem;
+  }
+
+  .main-container{
+    display: flex;
+  }
+
+  .img-large {width: 100%; height: auto;
+  }
+
+
+  @media screen and (max-width: 1000px) {
+    .main-container {
+      display: flex;
+      flex-direction: column;
+    }
+  }

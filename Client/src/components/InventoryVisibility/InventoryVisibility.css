@@ -1,0 +1,45 @@
+.inventory-visibility {
+  background-color: #e9eff4;
+  padding: 1rem 1rem;
+}
+
+.text-column {
+  padding: 1rem;
+}
+
+.text-column h1 {
+  font-size: 3rem;
+  margin-bottom: 1rem;
+}
+
+.text-column p {
+  font-size: 1.2rem;
+  margin-bottom: 1rem;
+}
+
+.image-column {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 1rem;
+}
+
+.image-column img {
+  max-width: 100%;
+  height: auto;
+  display: block;
+}
+
+@media (max-width: 768px) {
+  .text-column h1 {
+    font-size: 2.5rem;
+  }
+
+  .text-column p {
+    font-size: 1.1rem;
+  }
+
+  .image-column img {
+    max-width: 90%;
+  }
+}

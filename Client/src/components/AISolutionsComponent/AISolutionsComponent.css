@@ -1,0 +1,23 @@
+.S2{
+    margin-right: 0.5rem;
+  }
+
+  
+  .S3 {
+    margin-top: 1.5rem;
+  }
+  
+  .ai-card {
+    border: none;
+  }
+  
+  .ai-card img {
+    width: 100%;
+    height: auto;
+  }
+  
+  .nav-link.active {
+    font-weight: bold;
+  }
+  
+  

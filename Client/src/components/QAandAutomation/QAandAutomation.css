@@ -1,0 +1,41 @@
+
+.QAandAutomation {
+    margin-top: 20px;
+    padding-top: 100px;
+  }
+  
+  .card {
+    margin-bottom: 20px;
+  }
+  .A3{
+    box-shadow: 0 0 2px 4px rgba(0, 0, 0, 0.1);
+    padding: 20px;
+  }
+  
+  .card-title {
+    font-size: 1.5em;
+    margin-bottom: 15px;
+  }
+  
+  .card ul {
+    list-style-type: disc;
+    padding-left: 20px;
+  }
+  
+  .card ul li {
+    margin-bottom: 10px;
+  }
+  
+  .h2 {
+    font-size: 1.75em;
+    margin-bottom: 15px;
+  }
+  
+  .carousel img {
+    height: 200px;
+    object-fit: cover;
+  }
+  #new-card{
+    
+  }
+  

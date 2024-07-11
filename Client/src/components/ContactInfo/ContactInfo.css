@@ -1,0 +1,38 @@
+.contact-info-container {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 40vh; 
+    text-align: center;
+    background-color: rgb(4, 4, 37);
+    color: white;
+  }
+  
+  .contact-info-title {
+    font-size: 2em; 
+    margin-bottom: 0.5em; 
+  }
+  
+  .contact-info-subtitle {
+    font-size: 1.2em; 
+    margin-top: 0; 
+  }
+  
+  .contact-info-underline {
+    border-bottom: 2px solid rgb(231, 226, 239); 
+    color: inherit; 
+    transition: border-color 0.3s, color 0.3s; 
+  }
+  
+  .contact-info-underline:hover {
+    border-color: blue; 
+    color: blue; 
+  }
+
+  @media (max-width: 767.98px) {
+    .contact-info-container {
+      height: 60vh; 
+    }
+  }
+  
