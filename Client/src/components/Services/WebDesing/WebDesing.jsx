@@ -35,21 +35,21 @@ const WebDesign = () => {
             <Carousel.Item>
               <img
                 className="d-block w-100"
-                src="/public/webdesign-1.png"
+                src="/webdesign-1.png"
                 alt="First slide"
               />
             </Carousel.Item>
             <Carousel.Item>
               <img
                 className="d-block w-100"
-                src="/public/webdesign-1.png"
+                src="/webdesign-1.png"
                 alt="Second slide"
               />
             </Carousel.Item>
             <Carousel.Item>
               <img
                 className="d-block w-100"
-                src="/public/webdesign-1.png"
+                src="/webdesign-1.png"
                 alt="Third slide"
               />
             </Carousel.Item>

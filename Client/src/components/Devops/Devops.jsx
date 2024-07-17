@@ -12,21 +12,21 @@ const Devops = () => {
             <Carousel.Item>
               <img
                 className="d-block w-100"
-                src="/public/devops-1.1.png"
+                src="/devops-1.1.png"
                 alt="First slide"
               />
             </Carousel.Item>
             <Carousel.Item>
               <img
                 className="d-block w-100"
-                src="/public/devOps-2.jpg"
+                src="/devOps-2.jpg"
                 alt="Second slide"
               />
             </Carousel.Item>
             <Carousel.Item>
               <img
                 className="d-block w-100"
-                src="/public/image-1.jpeg"
+                src="/image-1.jpeg"
                 alt="Third slide"
               />
             </Carousel.Item>

@@ -36,21 +36,21 @@ const ServerSupport = () => {
             <Carousel.Item>
               <img
                 className="d-block w-100"
-                src="/public/server-support-1.jpg"
+                src="/server-support-1.jpg"
                 alt="First slide"
               />
             </Carousel.Item>
             <Carousel.Item>
               <img
                 className="d-block w-100"
-                src="/public/server-support-2.jpg"
+                src="/server-support-2.jpg"
                 alt="Second slide"
               />
             </Carousel.Item>
             <Carousel.Item>
               <img
                 className="d-block w-100"
-                src="/public/server-support-3.jpg"
+                src="/server-support-3.jpg"
                 alt="Third slide"
               />
             </Carousel.Item>

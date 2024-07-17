@@ -35,21 +35,21 @@ const AndroidandIOS = () => {
             <Carousel.Item>
               <img
                 className="d-block w-100"
-                src="/public/fullstack-1.jpg"
+                src="/fullstack-1.jpg"
                 alt="First slide"
               />
             </Carousel.Item>
             <Carousel.Item>
               <img
                 className="d-block w-100"
-                src="/public/fullstack-2.jpg"
+                src="/fullstack-2.jpg"
                 alt="Second slide"
               />
             </Carousel.Item>
             <Carousel.Item>
               <img
                 className="d-block w-100"
-                src="/public/fullstack-3.jpg"
+                src="/fullstack-3.jpg"
                 alt="Third slide"
               />
             </Carousel.Item>

@@ -12,7 +12,7 @@ import Trailer from '../components/Trailer/Trailer';
 const HomePage = () => {
   return (
     <div>
-    <Trailer header = "Transforming Ideas <br/> with Cutting-Edge <br/> Technology and Research" content = "Delivering Tailored Web Solutions and Advanced AI Products to Drive Your Success" url = "/public/image-1.jpeg"/>
+    <Trailer header = "Transforming Ideas <br/> with Cutting-Edge <br/> Technology and Research" content = "Delivering Tailored Web Solutions and Advanced AI Products to Drive Your Success" url = "/image-1.jpeg"/>
       <Cards />
       <TechnologyOverview />
       <HomePageCard />

@@ -5,7 +5,7 @@ const Cards = () => {
   const cardData = [
     {
       id: '1',
-      image: '/public/image1.jpg',
+      image: '/image1.jpg',
       heading: 'Web Development',
       text: 'Web Development Excellence Crafting stunning and responsive websites to elevate your online presence.',
     },

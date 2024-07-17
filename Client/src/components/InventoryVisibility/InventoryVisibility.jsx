@@ -14,7 +14,7 @@ const InventoryVisibility = () => {
             A leading retail company uses our web development and AI solutions to streamline operations and enhance customer experience.
           </p>
           <br/>
-          <p><b>NovaByte</b> leverages our advanced services to create a seamless online platform, significantly boosting efficiency and satisfaction.</p>
+          <p><b>NovaBytes</b> leverages our advanced services to create a seamless online platform, significantly boosting efficiency and satisfaction.</p>
         </Col>
         <Col md={6} xs={12} className="image-column">
           <img src="/image9.jpg" className="img-fluid" alt="Inventory Visibility" />

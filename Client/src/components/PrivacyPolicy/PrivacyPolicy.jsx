@@ -14,15 +14,12 @@ const PrivacyPolicy = () => {
 
   return (
     <div className="Legal">
-          <Helmet>
-                <link href="https://www.NovaByte.ai/privacy-policy" rel="canonical" />
-          </Helmet>
       <div>
         <Navbar />
       </div>
 
       <div className="flex flex-col justify-center 2xl:max-w-6xl xl:max-w-5xl lg:max-w-3xl md:max-w-2xl max-w-xl mx-auto space-y-12  p-8 my-20">
-        <h1 className="lg:text-5xl text-4xl font-bold">NovaByte.ai Privacy Policy</h1>
+        <h1 className="lg:text-5xl text-4xl font-bold">NovaBytes.ai Privacy Policy</h1>
         <div className="lg:text-xl text-lg space-y-12">
           <p>
           Effective Date: 1-Apr-2023

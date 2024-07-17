@@ -15,7 +15,7 @@ const AppNavbar = () => {
 
   return (
     <Navbar expand="lg" className='navbar'>
-      <Navbar.Brand href="/" className='px-4 brand-with-border'>NOVABYTE</Navbar.Brand>
+      <Navbar.Brand href="/" className='px-4 brand-with-border size'><img className='size' src='/novabytes-logo.png'></img></Navbar.Brand>
       <Navbar.Toggle aria-controls="basic-navbar-nav" />
       <Navbar.Collapse id="basic-navbar-nav">
         <Nav className="mr-auto">

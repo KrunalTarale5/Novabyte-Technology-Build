@@ -35,21 +35,21 @@ const ItService = () => {
             <Carousel.Item>
               <img
                 className="d-block w-100"
-                src="/public/it-consulting-1.png"
+                src="/it-consulting-1.png"
                 alt="First slide"
               />
             </Carousel.Item>
             <Carousel.Item>
               <img
                 className="d-block w-100"
-                src="/public/it-consulting-2.png"
+                src="/it-consulting-2.png"
                 alt="Second slide"
               />
             </Carousel.Item>
             <Carousel.Item>
               <img
                 className="d-block w-100"
-                src="/public/it-consulting-3.png"
+                src="/it-consulting-3.png"
                 alt="Third slide"
               />
             </Carousel.Item>

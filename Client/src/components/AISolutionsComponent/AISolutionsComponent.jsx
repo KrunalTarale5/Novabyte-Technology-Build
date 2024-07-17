@@ -30,7 +30,7 @@ const AISolutionsComponent = () => {
             <Row>
               <Col>
                 <Card className="ai-card">
-                  <Card.Img  src="/public/Ai.jpeg" />
+                  <Card.Img  src="/Ai.jpeg" />
                   <div>
                     <Card.Title>Build, train and tune AI</Card.Title>
                     <Card.Text>Start with IBM® watsonx.ai™, our studio for foundation models and machine learning and engage with expert consultants to drive real business transformation with AI technology.</Card.Text>
@@ -39,7 +39,7 @@ const AISolutionsComponent = () => {
               </Col>
               <Col>
                 <Card className="ai-card">
-                  <Card.Img variant="top" src="/public/Ai.jpeg" />
+                  <Card.Img variant="top" src="/Ai.jpeg" />
                   <div>
                     <Card.Title>Optimize your data for AI</Card.Title>
                     <Card.Text>Create a strategy with IBM® watsonx.data™ to construct your ideal data estate, which supports the entire data science lifecycle and enables the scaling of AI workloads with a fit-for-purpose data store.</Card.Text>
@@ -48,7 +48,7 @@ const AISolutionsComponent = () => {
               </Col>
               <Col>
                 <Card className="ai-card">
-                  <Card.Img variant="top" src="/public/Ai.jpeg" />
+                  <Card.Img variant="top" src="/Ai.jpeg" />
                   <div>
                     <Card.Title>Mitigate risk with AI governance</Card.Title>
                     <Card.Text>With IBM® watsonx.governance™, you can direct, manage and monitor your organization’s AI projects by integrating responsible AI workflows for generative AI and machine learning throughout your business operations.</Card.Text>
@@ -115,7 +115,7 @@ const AISolutionsComponent = () => {
          </div>
         </Col>
         <Col md={4}>
-          <img src="/public/Ai.jpeg" alt="AI" className="img-fluid" />
+          <img src="/Ai.jpeg" alt="AI" className="img-fluid" />
         </Col>
       </Row>
       <Row className="mt-4 S3">

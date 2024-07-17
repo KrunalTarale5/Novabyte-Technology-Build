@@ -35,7 +35,7 @@ const Footer = () => {
       <div className="container">
         <div className="row">
           <div className="col-lg-6 mb-4 sub_container">
-            <h3 className="mb-3 ">NovaByte</h3>
+            <h3 className="mb-3 ">NovaBytes</h3>
             <p className="mb-3">
             Select topics and stay current with our latest insights
             </p>
@@ -54,7 +54,7 @@ const Footer = () => {
             </div>
           </div>
           <div className="col-lg-6 text-lg-end">
-            <div className="d-flex justify-content-center justify-content-lg-end mb-3">
+           {/*  <div className="d-flex justify-content-center justify-content-lg-end mb-3">
               <Link to="/about" className="text-decoration-none me-3">
                 About Us
               </Link>
@@ -73,8 +73,8 @@ const Footer = () => {
               >
                 T&C
               </Link>
-            </div>
-            <div className="d-flex justify-content-center justify-content-lg-end">
+            </div>*/}
+            <div className="d-flex justify-content-center mt-5 justify-content-lg-end">
               <a
                 href=""
                 className="text-secondary me-3"
@@ -132,7 +132,7 @@ const Footer = () => {
 
         <div className="mt-4 border-top pt-3">
           <p className="text-center text-secondary">
-            &copy; {currentYear} NovaByte Software Consulting Private Limited
+            &copy; {currentYear} NovaBytes Software Consulting Private Limited
           </p>
         </div>
       </div>

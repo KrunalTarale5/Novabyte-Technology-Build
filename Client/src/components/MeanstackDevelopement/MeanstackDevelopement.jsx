@@ -12,21 +12,21 @@ const MeanstackDevelopement = () => {
             <Carousel.Item>
               <img
                 className="d-block w-100"
-                src="/public/meanstack-1.jpg"
+                src="/meanstack-1.jpg"
                 alt="First slide"
               />
             </Carousel.Item>
             <Carousel.Item>
               <img
                 className="d-block w-100"
-                src="/public/meanstack-2.jpg"
+                src="/meanstack-2.jpg"
                 alt="Second slide"
               />
             </Carousel.Item>
             <Carousel.Item>
               <img
                 className="d-block w-100"
-                src="/public/meanstack-3.jpg"
+                src="/meanstack-3.jpg"
                 alt="Third slide"
               />
             </Carousel.Item>

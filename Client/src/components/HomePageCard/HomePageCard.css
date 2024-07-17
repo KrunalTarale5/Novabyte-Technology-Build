@@ -14,12 +14,12 @@
   display: flex;
   flex-direction: column;
   justify-content: space-between;
-  transition: transform 0.5s, background-color 0.5s;
+  transition: transform 0.5s, background-color 0.5s; /* Added transition for background color */
   cursor: pointer;
 }
 
 .co-card:hover {
-  background-color: #f2f3f6;
+  background-color: #f2f3f6; /* Change background color on hover */
 }
 
 @media screen and (max-width: 770px) {
@@ -56,9 +56,9 @@
 }
 
 .card-logo {
-  width: 100px; 
-  height: 100px; 
-  object-fit: contain;
+  width: 120px; 
+  height: 120px; 
+  object-fit: cover;
   margin: 0 auto 10px auto;
 }
 

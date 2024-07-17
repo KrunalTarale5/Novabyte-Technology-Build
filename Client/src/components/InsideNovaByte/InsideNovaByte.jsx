@@ -8,7 +8,7 @@ const InsideNovaByte = () => {
       <Row>
         <Col xs={12} md={6} className="d-flex ">
           <div className="text-column">
-            <h1>Inside NovaByte</h1>
+            <h1>Inside NovaBytes</h1>
           </div>
         </Col>
         <Col xs={12} md={6} className="d-flex align-items-center justify-content-center">
@@ -17,7 +17,7 @@ const InsideNovaByte = () => {
           Harnessing advanced technology to solve business challenges and drive innovation. Explore our approach and discover how we make a difference.
           </p>
 
-          <p className='cal1'>About NovaByte <span className="arrow ">→</span></p>
+          <p className='cal1'>About NovaBytes <span className="arrow ">→</span></p>
           </div>
         </Col>
       </Row>
